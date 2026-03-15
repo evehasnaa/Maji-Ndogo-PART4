@@ -9,6 +9,6 @@
 - of towns across Akatsi and Hawassa have broken infrastructure.
 - 5. 18% of our people are using wells of which, but within that, only 28% are clean. These are mostly in Hawassa, Kilimani and Akatsi.
 - 6. Our citizens often face long wait times for water, averaging more than 120 minutes:
-- • Queues are very long on Saturdays.
-- • Queues are longer in the mornings and evenings.
-- • Wednesdays and Sundays have the shortest queues.
+  • Queues are very long on Saturdays.
+  • Queues are longer in the mornings and evenings.
+  • Wednesdays and Sundays have the shortest queues.
